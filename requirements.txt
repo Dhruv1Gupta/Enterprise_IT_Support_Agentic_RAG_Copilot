@@ -2,7 +2,7 @@ fastapi
 uvicorn[standard]
 jinja2
 python-multipart
-python-settings
+pydantic-settings
 langgraph
 langchain-core
 langchain-community
